@@ -1,2 +1,24 @@
 ﻿<Solution>
+  <Project Path="Kairou.csproj" />
+  <Project Path="SoundSystem.Editor.csproj" />
+  <Project Path="Kairou.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="SoundSystem.csproj" />
+  <Project Path="TextMeshProEffector.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="TextMeshProEffector.csproj" />
+  <Project Path="EditorExtensionLib.Editor.csproj" />
+  <Project Path="ScriptCreator.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="Kairou.Tests.Runtime.csproj" />
+  <Project Path="EditorExtensionLib.Runtime.csproj" />
+  <Project Path="Kairou.Tests.EditMode.csproj" />
+  <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
+  <Project Path="ShirohataLib.General.Runtime.csproj" />
+  <Project Path="ShirohataLib.General.Editor.csproj" />
+  <Project Path="GUIStyleViewer.csproj" />
+  <Project Path="Practice.Editor.csproj" />
+  <Project Path="ConvenientWindow.csproj" />
+  <Project Path="FavoriteAssetWindow.csproj" />
+  <Project Path="ScriptCreator.Tests.csproj" />
 </Solution>
