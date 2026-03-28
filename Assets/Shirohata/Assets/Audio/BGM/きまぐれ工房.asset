@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f092562809874024b88b0e8de3bec6e3, type: 3}
+  m_Name: "\u304D\u307E\u3050\u308C\u5DE5\u623F"
+  m_EditorClassIdentifier: SoundSystem::SoundSystem.CustomClip
+  _audioClip: {fileID: 8300000, guid: f176bd001af58a54993a1a9ea28b0b3d, type: 3}
+  _volumeMultiplier:
+    _enable: 1
+    _value: 0.16
+  _volumeMultiplierCurve:
+    _enable: 0
+    _curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  _pitchMultiplier:
+    _enable: 0
+    _value: 1
+  _playRange:
+    _enable: 0
+    _fromSamples: 0
+    _toSamples: 2147483647
